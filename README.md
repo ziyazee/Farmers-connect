@@ -1,6 +1,6 @@
 # Farmers-connect
-## This code I wrote in androd java.
-### helps customers directly contact farmers to buy any products instad of third party sellers.
+## The code is written in java.
+### helps customers directly contact farmers to buy any products instead of third party sellers.
 Features:
 - user registration
 - user login
